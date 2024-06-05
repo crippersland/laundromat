@@ -1,9 +1,9 @@
 import React from 'react'
-import { machine_washinner } from '../assets/Images'
 import { Link } from 'react-router-dom'
 import { RiPaintBrushFill } from 'react-icons/ri'
 import { footerLinkData } from '../data/footerLinkData'
 import { IoLogoFacebook, IoLogoInstagram, IoLogoTwitter, IoLogoYoutube } from 'react-icons/io'
+import { machine_washinner } from '../assets/Images'
 
 export default function Footer() {
   return (
