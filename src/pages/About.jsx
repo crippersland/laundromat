@@ -1,4 +1,3 @@
-import React from 'react'
 import { laundromat_screen1, laundromat_screen2, machine_dried, machine_seethrough, machine_sittingon, machine_womanwash } from '../assets/Images'
 import { MdCreditScore, MdEditCalendar } from 'react-icons/md'
 import { IoCheckmarkCircleOutline } from 'react-icons/io5'
