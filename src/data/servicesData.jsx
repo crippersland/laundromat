@@ -1,4 +1,4 @@
-import { machine_clothefloor, machine_clothefold, machine_delivery, machine_manwash, machine_towels } from "../assets/Images";
+import { machine_clothefloor, machine_clothefold, machine_delivery, machine_manwash, machine_towels } from "../assets/images";
 
 export const servicesData = [
     {

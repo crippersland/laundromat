@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 import { RiPaintBrushFill } from 'react-icons/ri'
 import { footerLinkData } from '../data/footerLinkData'
 import { IoLogoFacebook, IoLogoInstagram, IoLogoTwitter, IoLogoYoutube } from 'react-icons/io'
-import { machine_washinner } from '../assets/Images'
+import { machine_washinner } from '../assets/images'
 
 export default function Footer() {
   return (

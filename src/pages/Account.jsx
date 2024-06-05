@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import { machine_washingclosed } from "../assets/Images"
+import { machine_washingclosed } from "../assets/images"
 import { IoEyeOffOutline, IoEyeOutline, IoKeyOutline, IoPersonCircleOutline, IoPersonOutline } from 'react-icons/io5'
 import { BsPersonSquare } from 'react-icons/bs'
 import { TbMailForward } from 'react-icons/tb'
